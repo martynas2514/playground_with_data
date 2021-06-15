@@ -1,4 +1,3 @@
-# Vinted_academy_2021_homework
 
 ## Abstract 
 
