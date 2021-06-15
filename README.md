@@ -13,7 +13,7 @@ Everything should be straightforward, just go over the steps of the notebook:
 To load models: 
 
 1. generate targets in "generate target" section
-2. in Model section there is a cell which does that. However these models are trained on preprocessed data, so in case of testing execution of cells in section "Pipeline" and cells from ""MOdel" to "Data on first 3 principal components".
+2. in Model section there is a cell which does that. However these models are trained on preprocessed data, so in case of testing execution of cells in section "Pipeline" and cells from ""MOdel" to "Data on first 3 principal components" are needed.
 3. Final classifier is loaded in section "Final Classifier"
 
 
